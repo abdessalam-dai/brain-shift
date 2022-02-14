@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Staatliches&display=swap');
+
+* {
+	font-family: 'Comfortaa', cursive;
+}
+
+body {
+	background-color: #222831 !important;
+	color: #EEEEEE !important;
+}
+
+.game-btn {
+	font-size: 30px !important;
+}
+
+.game-card {
+	width: 180px;
+	font-size: 60px;
+	height: 100px;
+	color: #FFD369;
+	background-color: #393E46;
+}
