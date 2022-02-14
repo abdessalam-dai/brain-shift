@@ -3,6 +3,9 @@ Brain Shift is a game from Lumosity (https://www.lumosity.com/).
 In this game, you will switch between two rules depending on whether the letter-number pair shows up on the top or bottom card.
 The location of the letter-number pair will be unpredictable, so you will exercise your mental flexibility to answer as quickly as possible.
 
+<h1>Live Demo</h1>
+Visit https://brain-shift.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
