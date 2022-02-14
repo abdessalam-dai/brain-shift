@@ -1,7 +1,6 @@
 <h1>Brain Shift</h1>
-
+Brain Shift is a game from Lumosity (https://www.lumosity.com/).
 In this game, you will switch between two rules depending on whether the letter-number pair shows up on the top or bottom card.
-
 The location of the letter-number pair will be unpredictable, so you will exercise your mental flexibility to answer as quickly as possible.
 
 # Getting Started with Create React App
